@@ -1,4 +1,4 @@
-# How many moving boxes do i need
+# How many moving boxes do I need?
 
 > Estimate boxes from your measured packed-item volume and a chosen box’s inside dimensions. This makes the assumptions visible instead of promising a fixed number of boxes per bedroom.
 
@@ -6,7 +6,7 @@
 - [Open the calculator](https://howmanymovingboxesdoineed.com/): 1,000 L of inventory, 45 × 35 × 30 cm boxes, 80% usable fill and 10% spare volume give 30 boxes.
 
 ## Guide
-- [How to how many moving boxes do i need](https://howmanymovingboxesdoineed.com/guide/): measurement inputs, formula, assumptions, limits and a worked example.
+- [How to work out how many moving boxes you need](https://howmanymovingboxesdoineed.com/guide/): step-by-step measuring, common mistakes, formula, limits and a worked example.
 
 ## Method
 Multiply the inside length, width and height in centimetres and divide by 1,000 for box volume in litres. Multiply by usable fill fraction. Add your spare allowance to the inventory volume, divide by usable box capacity and round up.
