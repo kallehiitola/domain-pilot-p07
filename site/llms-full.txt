@@ -1,40 +1,57 @@
 # How many moving boxes do I need?
 
-> Estimate boxes from your measured packed-item volume and a chosen box’s inside dimensions. This makes the assumptions visible instead of promising a fixed number of boxes per bedroom.
+> Estimate moving boxes from standard apartment presets or your measured packed volume, using real inside box dimensions, usable packing fill, and a moving-day spare buffer.
 
 ## Calculator
-- [Open the calculator](https://howmanymovingboxesdoineed.com/): 1,000 L of inventory, 45 × 35 × 30 cm boxes, 80% usable fill and 10% spare volume give 30 boxes.
+- [Open the calculator](https://howmanymovingboxesdoineed.com/): US 1-BR move: 65 cu ft of packed goods in 18 × 14 × 12 in boxes (1.75 cu ft each) at 80% fill and 10% spare needs 52 boxes. Metric: 1,000 L of boxable inventory in 45 × 35 × 30 cm boxes at 80% usable fill and 10% spare needs 30 boxes.
 
 ## Guide
-- [How to work out how many moving boxes you need](https://howmanymovingboxesdoineed.com/guide/): step-by-step measuring, common mistakes, formula, limits and a worked example.
+- [How to work out how many moving boxes you need](https://howmanymovingboxesdoineed.com/guide/): step-by-step measuring, common mistakes, and ordering checklist.
 
-## Method
-Multiply the inside length, width and height in centimetres and divide by 1,000 for box volume in litres. Multiply by usable fill fraction. Add your spare allowance to the inventory volume, divide by usable box capacity and round up.
+## Formula and method
+Inside box volume = L × W × H; Usable capacity = inside volume × fill fraction; Boxes = ceiling((inventory volume × (1 + spare / 100)) / usable capacity).
+
+Multiply the inside length, width, and height of your chosen box to find interior volume, then multiply by your realistic usable fill fraction (accounting for packing paper and headspace). Apply your spare-volume buffer to your boxable inventory volume, divide by usable box capacity, and round up to whole boxes.
 
 ## Limits
-Estimate inventory volume from existing bins, shelf sections or measured bundles. Large furniture is excluded. Heavy books, fragile items and awkward objects can require more boxes than volume alone suggests; respect each box’s weight rating. Usable fill is an estimate, not a packing guarantee.
+Large furniture, mattresses, and unboxed items are excluded. Heavy items such as books, dishes, and tools reach safe weight limits (40 to 50 lb) long before filling large boxes—always mix small, medium, and large boxes rather than packing everything in one size.
 
 ## Supporting pages
 - [Method and assumptions](https://howmanymovingboxesdoineed.com/method/)
 - [About, editorial responsibility and privacy](https://howmanymovingboxesdoineed.com/about/)
 
 ## Sources
-- [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
+- [Wikipedia: Corrugated box design and sizing](https://en.wikipedia.org/wiki/Corrugated_box_design)
+- [Wikipedia: Corrugated fiberboard strength](https://en.wikipedia.org/wiki/Corrugated_fiberboard)
+- [NIST: US customary to metric unit conversions](https://www.nist.gov/pml/owm/metric-si/unit-conversion/approximate-conversions-us-customary-measures-metric)
+
+## Standard moving box sizes, weight limits, and typical home ranges
+
+Combine box sizes by item density. Typical apartment box counts vary widely with how densely furnished the home is.
+
+| Box type | Typical US dimensions | Volume | Best items to pack | Max safe load |
+| --- | --- | --- | --- | --- |
+| Small (book box) | 16 × 12 × 12 in | 1.5 cu ft (42 L) | Books, canned goods, tools, records | 40–50 lb (18–23 kg) |
+| Medium (general) | 18 × 14 × 12 in or 18 × 18 × 16 in | 1.75–3.0 cu ft (50–85 L) | Kitchenware, toys, small appliances, pantry | 35–50 lb (16–23 kg) |
+| Large | 18 × 18 × 24 in or 20 × 20 × 20 in | 4.5 cu ft (127 L) | Bedding, towels, coats, lampshades | 30–40 lb (lightweight only) |
+| Extra-large | 24 × 18 × 24 in | 6.0 cu ft (170 L) | Comforters, pillows, winter jackets | 25–35 lb (bulky light items) |
+| Wardrobe | 24 × 20 × 46 in | ~12.8 cu ft (360 L) | Hanging suits, dresses, coats | Follow hanging-bar rating |
 
 ## Step by step
-1. Estimate the volume of everything that goes into boxes. Measure full shelf sections, cupboards or storage bins and add them up.
-2. Leave out furniture and anything that moves unboxed.
-3. Measure the inside length, width and height of the box you plan to use.
-4. Choose a realistic fill fraction, because boxes rarely pack completely full, and add spare volume for last-minute items.
+1. Start with a home-size preset (studio, 1-BR, 2-BR, or 3-BR) or estimate packed volume by measuring full bookshelves, closet shelves, cupboards, and storage bins.
+2. Exclude furniture, mattresses, bikes, and large appliances that move unboxed.
+3. Enter the inside dimensions of the primary moving box size you plan to buy (a US medium box is roughly 18 × 14 × 12 in to 18 × 18 × 16 in).
+4. Keep usable fill around 75% to 85% to allow for cushioning paper, irregular shapes, and headspace, plus 10% to 15% spare boxes for moving-day overflow.
 
 ## Common mistakes
-- Using a boxes-per-room rule of thumb that ignores how much you actually own.
-- Packing books and other heavy items in large boxes. Use small boxes and respect each box's weight rating.
-- Running out on moving day. Keep a few spare boxes for the final items.
+- Packing heavy items like books, dishes, or tools in large boxes. Heavy loads burst tape seams and exceed safe lifting limits (~40 to 50 lb).
+- Assuming 100% of inside box volume gets filled. Padding around fragile kitchenware uses 20% to 35% of the interior space.
+- Waiting until the night before moving day to buy spare boxes, when closets and junk drawers always reveal extra items.
+- Buying only one box size. Most moves need a mix of small boxes for dense goods, medium for general items, and large for bedding and pillows.
 
 ## Worked examples
 ### Example 1
-1,000 L of inventory, 45 × 35 × 30 cm boxes, 80% usable fill and 10% spare volume give 30 boxes.
+Metric: 1,000 L of boxable inventory in 45 × 35 × 30 cm boxes at 80% usable fill and 10% spare needs 30 boxes.
 
 ### Example 2
-378 L fits exactly into 10 of those boxes under the same 80% fill assumption.
+US 1-BR move: 65 cu ft of packed goods in 18 × 14 × 12 in boxes (1.75 cu ft each) at 80% fill and 10% spare needs 52 boxes.
